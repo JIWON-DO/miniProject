@@ -2,6 +2,6 @@
 
 int main ()
 {
-    printf("Hello Docker Test Jiwon \n");
+    printf("Hello Docker Test Jiwon!\n");
     return 0;
 } 
